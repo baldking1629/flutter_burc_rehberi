@@ -8,7 +8,6 @@ class BurcListesi extends StatelessWidget {
 
   BurcListesi() {
     tumBurclar = veriKaynaginiHazirla();
-    print(tumBurclar);
   }
 
   @override
