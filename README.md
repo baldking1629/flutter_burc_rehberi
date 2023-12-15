@@ -1,6 +1,6 @@
 # flutter_burc_rehberi
 
-A new Flutter project.
+A new Flutter project. Flutterda basit bir burç bilgi projesi geliştirmeler yapılacaktır.
 
 ## Getting Started
 
